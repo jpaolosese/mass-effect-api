@@ -1,0 +1,48 @@
+{
+    "assault_rifles": [
+        {
+            "name": "Vindicator"
+        }, 
+        {
+            "name": "M-8 Avenger"
+        }, 
+        {
+            "name": "Cerberus Harrier"
+        }
+    ],
+    "heavy_pistols": [
+        {
+            "name": "carnifex"
+        }, 
+        {
+            "name": "n7 eagle"
+        }
+    ],
+    "shotguns": [
+        {
+            "name": "M-300 Claymore"
+        }, 
+        {
+            "name": "M-11 Wraith"
+        }, 
+        {
+            "name": "M-22 Eviscerator"
+        }
+    ],
+    "sniper_rifles": [
+        {
+            "name": "Black Widow"
+        }, 
+        {
+            "name": "M-92 Mantis"
+        }
+    ],
+    "submachine_guns": [
+        {
+            "name": "M-12 Locust"
+        },
+        {
+            "name": "M-9 Tempest"
+        }
+    ]
+}

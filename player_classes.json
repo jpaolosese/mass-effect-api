@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "name": "Adept",
+            "canWieldInME2": ["heavy_pistols", "submachine_guns"],
+            "powers": ["cluster_grenades", "pull", "shockwave", "singularity", "throw", "warp"]
+        },
+        {
+            "name": "Engineer",
+            "canWieldInME2": ["heavy_pistols", "submachine_guns"]
+        },
+        {
+            "name": "Infiltrator",
+            "canWieldInME2": ["heavy_pistols", "sniper_rifles", "submachine_guns"]
+        },
+        {
+            "name": "Sentinel",
+            "canWieldInME2": ["heavy_pistols", "submachine_guns"]
+        },
+        {
+            "name": "Soldier",
+            "canWieldInME2": ["assault_rifles", "heavy_pistols", "shotguns", "sniper_rifles"]
+        },
+        {
+            "name": "Vanguard",
+            "canWieldInME2": ["heavy_pistols", "shotguns", "submachine_guns"],
+            "powers": ["charge", "cryo ammo", "incendiary ammo", "nova", "pull", "shockwave"]
+        }
+    ]
+}
